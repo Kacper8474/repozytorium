@@ -1,2 +1,2 @@
-public class adderClass {
+public class adder{
 }
